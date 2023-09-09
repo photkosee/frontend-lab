@@ -1,2 +1,2 @@
-# html-lab
-Get familiar with HTML
+# Web Front-end Programming exercises
+Master Front-end skills
