@@ -19,11 +19,11 @@
 - [ ] css-image-layout-complex
 - [ ] css-investigate-page-components
 - [ ] css-mobile-first-page
-- [ ] css-replicate-airbnb
+- [x] css-replicate-airbnb
 - [ ] css-replicate-cities-layout
-- [ ] css-replicate-layered-and-mobile
+- [x] css-replicate-layered-and-mobile
 - [ ] css-replicate-more-flex
-- [ ] css-replicate-simple-flex
+- [x] css-replicate-simple-flex
 - [ ] css-replicate-simple-layout
 - [ ] css-replicate-split-text-page
 - [ ] css-replicate-stats-marketing
